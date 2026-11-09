@@ -1,0 +1,14 @@
+div {
+    justify-content: center;
+    padding: 50px;
+    display: flex;
+}
+button{
+    flex: 1;
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    color: #FFFFFF;
+    margin: 20px;
+    font-size: medium;
+}
